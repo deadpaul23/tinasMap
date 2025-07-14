@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Tina's Karte]]></name>
+    <description><![CDATA[Hier findest du Restaurants, Bars und Cafés, die für dich und uns interessant sein könnten - du darfst mich jederzeit beim Wort nehmen und dazu auffordern mit dir eine oder mehrere davon auszuprobieren. <br><br>Ich liebe Dich!<br><br>P.S.: Gegebenenfalls benötige ich etwas Vorlauf für Reservierungen/Buchungen oder so - ich habe aber versucht es zu vermerken, so mir bekannt ist, dass das der Fall ist.]]></description>
+    <NetworkLink>
+      <name><![CDATA[Tina's Karte]]></name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1bTgD-HnSgP80zxhd-Z36Pz-E95OUtQk]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
